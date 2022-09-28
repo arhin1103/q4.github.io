@@ -1,0 +1,142 @@
+.desktop5-container {
+  min-height: 100vh;
+}
+.desktop5-desktop5 {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  position: relative;
+  max-width: 1920px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 0px 0px 0px 0px;
+  background-color: rgba(252, 255, 151, 1);
+}
+.desktop5-group9 {
+  top: 73px;
+  left: 143px;
+  width: 1699px;
+  height: 429px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.desktop5-rectangle9 {
+  top: 13px;
+  left: 0px;
+  width: 1699px;
+  height: 346px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  border-radius: 60px;
+}
+.desktop5-text {
+  left: 18px;
+  color: rgba(0, 93, 99, 1);
+  width: 1681px;
+  height: auto;
+  position: absolute;
+  font-size: 150px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop5-navlink {
+  display: contents;
+}
+.desktop5-group11 {
+  top: 647px;
+  left: 17px;
+  width: 1297px;
+  height: 433px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  text-decoration: none;
+  background-color: rgba(217, 217, 217, 1);
+}
+.desktop5-text7 {
+  top: 114px;
+  left: 404px;
+  color: rgba(0, 0, 0, 1);
+  width: 871px;
+  height: auto;
+  position: absolute;
+  font-size: 150px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop5-group10 {
+  top: 30px;
+  left: 20px;
+  width: 384px;
+  height: 384px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.desktop5-vector {
+  top: 111.99267578125px;
+  left: 106.1279067993164px;
+  width: 172px;
+  height: 160px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.desktop5-vector1 {
+  top: 0px;
+  left: 0px;
+  width: 384px;
+  height: 384px;
+  position: absolute;
+  box-sizing: border-box;
+}
